@@ -71,6 +71,6 @@ CLIENT_DRIVER_TABLE usbClientDrvTable[] =
 
 USB_TPL usbTPL[] =
 {
-    { INIT_CL_SC_P( 08ul, 06ul, 50ul ), 0, 0, {TPL_CLASS_DRV} }, // flash
+    { INIT_CL_SC_P( 0x08ul, 0x06ul, 0x50ul ), 0, 0, {TPL_CLASS_DRV} }, // flash
 };
 
