@@ -388,7 +388,13 @@ void FlashMonitorMedia( void )
                     strcpy( volume.label, searchRecord.filename );
                     volume.valid = TRUE;
                 }
-
+sprintf( pageInformation.instructions, " media = %d  = %d",mediaPresentNow,mediaPresent );
+    StCreate(
+                ID_INSTRUCTIONS,
+                0, 47, 127, 47+GetTextHeight( (void *)&FONTDEFAULT )-1,
+                ST_DRAW,
+                pageInformation.instructions,
+                NULL );
                 FlashDisplayDirectory();
             }
         }

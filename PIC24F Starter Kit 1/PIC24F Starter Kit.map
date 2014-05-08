@@ -71,25 +71,25 @@ section                    address   length (PC units)   length (bytes) (dec)
 .reset                           0                 0x4             0x6  (6)
 .ivt                           0x4                0xfc           0x17a  (378)
 .aivt                        0x104                0xfc           0x17a  (378)
-.text                        0x200             0x1354c         0x1cff2  (118770)
-.const                     0x1374c               0x54e           0x7f5  (2037)
-.dinit                     0x13c9a               0x6b4           0xa0e  (2574)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn8   0x1434e               0x40a           0x60f  (1551)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn9   0x14758               0x40a           0x60f  (1551)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn7   0x14b62                0x2a            0x3f  (63)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn6   0x14b8c                0x1e            0x2d  (45)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn1   0x14baa                0x12            0x1b  (27)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn2   0x14bbc                0x12            0x1b  (27)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn3   0x14bce                0x12            0x1b  (27)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn4   0x14be0                0x12            0x1b  (27)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn5   0x14bf2                0x12            0x1b  (27)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn10   0x14c04                0x12            0x1b  (27)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn11   0x14c16                0x12            0x1b  (27)
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn12   0x14c28                0x12            0x1b  (27)
+.text                        0x200             0x1357c         0x1d03a  (118842)
+.const                     0x1377c               0x560           0x810  (2064)
+.dinit                     0x13cdc               0x6b4           0xa0e  (2574)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn8   0x14390               0x40a           0x60f  (1551)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn9   0x1479a               0x40a           0x60f  (1551)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn7   0x14ba4                0x2a            0x3f  (63)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn6   0x14bce                0x1e            0x2d  (45)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn1   0x14bec                0x12            0x1b  (27)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn2   0x14bfe                0x12            0x1b  (27)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn3   0x14c10                0x12            0x1b  (27)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn4   0x14c22                0x12            0x1b  (27)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn5   0x14c34                0x12            0x1b  (27)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn10   0x14c46                0x12            0x1b  (27)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn11   0x14c58                0x12            0x1b  (27)
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn12   0x14c6a                0x12            0x1b  (27)
 __CONFIG2                  0x2abfc                 0x2             0x3  (3)
 __CONFIG1                  0x2abfe                 0x2             0x3  (3)
 
-                     Total program memory used (bytes):        0x1f257  (127575) 48%
+                     Total program memory used (bytes):        0x1f2ba  (127674) 48%
 
 
 Data Memory Usage
@@ -101,12 +101,12 @@ section                    address      alignment gaps    total length  (dec)
 .nbss                       0x10ec                   0            0xcc  (204)
 .nbss                       0x11b8                   0            0x40  (64)
 .nbss                       0x11f8                   0             0x8  (8)
-_00f30d20536ba7f7           0x1200                   0           0x200  (512)
-_0184b310536ba7f7           0x1400                   0           0x200  (512)
-_0184b460536ba7f7           0x1600                   0           0x200  (512)
+_00f2ed20536bb0d7           0x1200                   0           0x200  (512)
+_0184b310536bb0d8           0x1400                   0           0x200  (512)
+_0184b460536bb0d8           0x1600                   0           0x200  (512)
 .nbss                       0x1800                   0            0x96  (150)
 .nbss                       0x1896                   0            0x88  (136)
-_00f04150536ba804           0x191e                   0            0x3a  (58)
+_00f04150536bb0e5           0x191e                   0            0x3a  (58)
 .nbss                       0x1958                   0            0x36  (54)
 .nbss                       0x198e                   0            0x34  (52)
 .ndata                      0x19c2                   0            0x30  (48)
@@ -137,7 +137,7 @@ _00f04150536ba804           0x191e                   0            0x3a  (58)
 .nbss                       0x1b7e                   0             0x2  (2)
 .ndata                      0x1b80                   0             0x2  (2)
 .nbss                       0x1b82                   0             0x2  (2)
-_00e4caf0536ba7f9           0x1b84                   0           0x764  (1892)
+_00e4caf0536bb0d9           0x1b84                   0           0x764  (1892)
 .dconst                     0x22e8                   0             0x8  (8)
 
                         Total data memory used (bytes):         0x1af0  (6896) 42%
@@ -705,129 +705,129 @@ External Symbols in Program Memory (by address):
                   0x00cf2e                  _FlashDisplayFiles
                   0x00cfc6                  _FlashFormatFileInformation
                   0x00d018                  _FlashMonitorMedia
-                  0x00d0b4                  _FlashUpdateVolume
-                  0x00d11a                  _ProcessMessageFlash
-                  0x00d204                  _ProcessMessageFlashError
-                  0x00d216                  _ShowScreenFlash
-                  0x00d2aa                  _ShowScreenFlashError
-                  0x00d5d2                  _TranslateMessageFlash
-                  0x00d63e                  _TranslateMessageFlashError
-                  0x00d662                  _USB_ApplicationEventHandler
-                  0x00d6c2                  _CalibrateCTMU
-                  0x00d956                  _IndicateFocus
-                  0x00d99c                  _ProcessMessageCTMU
-                  0x00d9aa                  _ProcessMessageTime
-                  0x00dc46                  _ProcessMessageUtilities
-                  0x00dcc2                  _ShowScreenCTMU
-                  0x00dcfe                  _ShowScreenTime
-                  0x00e0b8                  _ShowScreenUtilities
-                  0x00e10e                  _TranslateMessageCTMU
-                  0x00e11c                  _TranslateMessageTime
-                  0x00e282                  _UpdateDateTime
-                  0x00e318                  _CTMUInit
-                  0x00e390                  _ReadCTMU
-                  0x00e628                  _SetNextChannel
-                  0x00e63e                  _TouchSenseButtonsMsg
-                  0x00e7ba                  _InitializeRandomNumberGenerator
-                  0x00e7d0                  _ProcessMessageGames
-                  0x00e84c                  _ProcessMessageScore
-                  0x00e85e                  _Random
-                  0x00e886                  _ShowScreenGames
-                  0x00e8d6                  _ShowScreenScore
-                  0x00e96c                  _TranslateMessageScore
-                  0x00e990                  _DrawBlaster
-                  0x00f344                  _FindNextPosition
-                  0x00f514                  _ProcessMessageBlaster
-                  0x00f5a4                  _ShowScreenBlaster
-                  0x00f64e                  _TranslateMessageBlaster
-                  0x00f6e8                  _CompactHorizontal
-                  0x00f7c2                  _CompactVertical
-                  0x00f872                  _FindBallNumber
-                  0x00f8c0                  _MarkAllNeighbors
-                  0x00f9b6                  _MovesRemaining
-                  0x00fa90                  _ProcessMessageShapelet
-                  0x00fc2e                  _ShowScreenShapelet
-                  0x00fcfe                  _TranslateMessageShapelet
-                  0x00fd16                  _DrawSnake
-                  0x0100be                  _ProcessMessageSnake
-                  0x01012e                  _ShowScreenSnake
-                  0x0102bc                  _TranslateMessageSnake
-                  0x01033c                  _EbCreate
-                  0x0103f2                  _EbSetText
-                  0x010448                  _EbAddChar
-                  0x010484                  _EbDeleteChar
-                  0x0104ac                  _EbTranslateMsg
-                  0x010500                  _EbMsgDefault
-                  0x010546                  _EbDraw
-                  0x01078c                  _RdiaCreate
-                  0x01082e                  _RdiaMsgDefault
-                  0x010866                  _RdiaCosine
-                  0x0108cc                  _RdiaSine
-                  0x010932                  _RdiaTranslateMsg
-                  0x010a2e                  _RdiaDraw
-                  0x010c6a                  _GridCreate
-                  0x010d44                  _GridDraw
-                  0x011148                  _GridFreeItems
-                  0x01116a                  _GridSetCell
-                  0x0111ce                  _GridClearCellState
-                  0x011228                  _GridSetFocus
-                  0x011256                  _GridSetCellState
-                  0x0112ae                  _GridGetCell
-                  0x011310                  _GridMsgDefault
-                  0x01150a                  _GridTranslateMsg
-                  0x0115a2                  _DelayMs
-                  0x0115c6                  _ResetDevice
-                  0x011882                  _PutPixel
-                  0x011a3e                  _GetPixel
-                  0x011bba                  _ClearDevice
-                  0x011c46                  _PutImage
-                  0x011c7c                  _PutImage1BPP
-                  0x011db2                  _USBHostMSDSCSIInitialize
-                  0x011dd4                  _USBHostMSDSCSIEventHandler
-                  0x011e46                  _USBHostMSDSCSIMediaDetect
-                  0x011e66                  _USBHostMSDSCSIMediaInitialize
-                  0x011fa6                  _USBHostMSDSCSIMediaReset
-                  0x011ff6                  _USBHostMSDSCSISectorRead
-                  0x0120b8                  _USBHostMSDSCSISectorWrite
-                  0x012192                  _USBHostMSDSCSIWriteProtectState
-                  0x01219a                  _ReadWord
-                  0x0121ce                  _ReadDWord
-                  0x012202                  _USBHostMSDDeviceStatus
-                  0x0122d6                  _USBHostMSDResetDevice
-                  0x012392                  _USBHostMSDTasks
-                  0x013040                  _USBHostMSDTerminateTransfer
-                  0x0130e2                  _USBHostMSDTransfer
-                  0x01335e                  _USBHostMSDTransferIsComplete
-                  0x01343a                  _USBHostMSDInitialize
-                  0x0135dc                  _USBHostMSDEventHandler
-                  0x01367a                  __USBHostMSD_GetNextTag
-                  0x013690                  __USBHostMSD_ResetStateJump
-                  0x0137ac                  _GOLFontDefault
-                  0x0137b0                  _ballCircle
-                  0x0137b6                  _ballCross
-                  0x0137bc                  _ballMarking
-                  0x0137c2                  _ballSquare
-                  0x0137c8                  _ballTriangle
-                  0x0137ce                  _iconFolderSmall
-                  0x0137d4                  _iconMicrochip
-                  0x0137da                  _intro
-                  0x0137e0                  _introDevice
-                  0x0137e6                  _snakeBody
-                  0x0137ec                  _snakeFood
-                  0x0137f2                  _snakeHead
-                  0x0137f8                  _mediaRequest
-                  0x01434e                  _L4298
-                  0x014758                  _L29552
-                  0x014b62                  _L17009
-                  0x014b8c                  _L8740
-                  0x014baa                  _L17048
-                  0x014bbc                  _L18321
-                  0x014bce                  _L2447
-                  0x014be0                  _L32264
-                  0x014bf2                  _L10673
-                  0x014c04                  _L4126
-                  0x014c16                  _L8993
-                  0x014c28                  _L18976
+                  0x00d0e4                  _FlashUpdateVolume
+                  0x00d14a                  _ProcessMessageFlash
+                  0x00d234                  _ProcessMessageFlashError
+                  0x00d246                  _ShowScreenFlash
+                  0x00d2da                  _ShowScreenFlashError
+                  0x00d602                  _TranslateMessageFlash
+                  0x00d66e                  _TranslateMessageFlashError
+                  0x00d692                  _USB_ApplicationEventHandler
+                  0x00d6f2                  _CalibrateCTMU
+                  0x00d986                  _IndicateFocus
+                  0x00d9cc                  _ProcessMessageCTMU
+                  0x00d9da                  _ProcessMessageTime
+                  0x00dc76                  _ProcessMessageUtilities
+                  0x00dcf2                  _ShowScreenCTMU
+                  0x00dd2e                  _ShowScreenTime
+                  0x00e0e8                  _ShowScreenUtilities
+                  0x00e13e                  _TranslateMessageCTMU
+                  0x00e14c                  _TranslateMessageTime
+                  0x00e2b2                  _UpdateDateTime
+                  0x00e348                  _CTMUInit
+                  0x00e3c0                  _ReadCTMU
+                  0x00e658                  _SetNextChannel
+                  0x00e66e                  _TouchSenseButtonsMsg
+                  0x00e7ea                  _InitializeRandomNumberGenerator
+                  0x00e800                  _ProcessMessageGames
+                  0x00e87c                  _ProcessMessageScore
+                  0x00e88e                  _Random
+                  0x00e8b6                  _ShowScreenGames
+                  0x00e906                  _ShowScreenScore
+                  0x00e99c                  _TranslateMessageScore
+                  0x00e9c0                  _DrawBlaster
+                  0x00f374                  _FindNextPosition
+                  0x00f544                  _ProcessMessageBlaster
+                  0x00f5d4                  _ShowScreenBlaster
+                  0x00f67e                  _TranslateMessageBlaster
+                  0x00f718                  _CompactHorizontal
+                  0x00f7f2                  _CompactVertical
+                  0x00f8a2                  _FindBallNumber
+                  0x00f8f0                  _MarkAllNeighbors
+                  0x00f9e6                  _MovesRemaining
+                  0x00fac0                  _ProcessMessageShapelet
+                  0x00fc5e                  _ShowScreenShapelet
+                  0x00fd2e                  _TranslateMessageShapelet
+                  0x00fd46                  _DrawSnake
+                  0x0100ee                  _ProcessMessageSnake
+                  0x01015e                  _ShowScreenSnake
+                  0x0102ec                  _TranslateMessageSnake
+                  0x01036c                  _EbCreate
+                  0x010422                  _EbSetText
+                  0x010478                  _EbAddChar
+                  0x0104b4                  _EbDeleteChar
+                  0x0104dc                  _EbTranslateMsg
+                  0x010530                  _EbMsgDefault
+                  0x010576                  _EbDraw
+                  0x0107bc                  _RdiaCreate
+                  0x01085e                  _RdiaMsgDefault
+                  0x010896                  _RdiaCosine
+                  0x0108fc                  _RdiaSine
+                  0x010962                  _RdiaTranslateMsg
+                  0x010a5e                  _RdiaDraw
+                  0x010c9a                  _GridCreate
+                  0x010d74                  _GridDraw
+                  0x011178                  _GridFreeItems
+                  0x01119a                  _GridSetCell
+                  0x0111fe                  _GridClearCellState
+                  0x011258                  _GridSetFocus
+                  0x011286                  _GridSetCellState
+                  0x0112de                  _GridGetCell
+                  0x011340                  _GridMsgDefault
+                  0x01153a                  _GridTranslateMsg
+                  0x0115d2                  _DelayMs
+                  0x0115f6                  _ResetDevice
+                  0x0118b2                  _PutPixel
+                  0x011a6e                  _GetPixel
+                  0x011bea                  _ClearDevice
+                  0x011c76                  _PutImage
+                  0x011cac                  _PutImage1BPP
+                  0x011de2                  _USBHostMSDSCSIInitialize
+                  0x011e04                  _USBHostMSDSCSIEventHandler
+                  0x011e76                  _USBHostMSDSCSIMediaDetect
+                  0x011e96                  _USBHostMSDSCSIMediaInitialize
+                  0x011fd6                  _USBHostMSDSCSIMediaReset
+                  0x012026                  _USBHostMSDSCSISectorRead
+                  0x0120e8                  _USBHostMSDSCSISectorWrite
+                  0x0121c2                  _USBHostMSDSCSIWriteProtectState
+                  0x0121ca                  _ReadWord
+                  0x0121fe                  _ReadDWord
+                  0x012232                  _USBHostMSDDeviceStatus
+                  0x012306                  _USBHostMSDResetDevice
+                  0x0123c2                  _USBHostMSDTasks
+                  0x013070                  _USBHostMSDTerminateTransfer
+                  0x013112                  _USBHostMSDTransfer
+                  0x01338e                  _USBHostMSDTransferIsComplete
+                  0x01346a                  _USBHostMSDInitialize
+                  0x01360c                  _USBHostMSDEventHandler
+                  0x0136aa                  __USBHostMSD_GetNextTag
+                  0x0136c0                  __USBHostMSD_ResetStateJump
+                  0x0137dc                  _GOLFontDefault
+                  0x0137e0                  _ballCircle
+                  0x0137e6                  _ballCross
+                  0x0137ec                  _ballMarking
+                  0x0137f2                  _ballSquare
+                  0x0137f8                  _ballTriangle
+                  0x0137fe                  _iconFolderSmall
+                  0x013804                  _iconMicrochip
+                  0x01380a                  _intro
+                  0x013810                  _introDevice
+                  0x013816                  _snakeBody
+                  0x01381c                  _snakeFood
+                  0x013822                  _snakeHead
+                  0x013828                  _mediaRequest
+                  0x014390                  _L4298
+                  0x01479a                  _L29552
+                  0x014ba4                  _L17009
+                  0x014bce                  _L8740
+                  0x014bec                  _L17048
+                  0x014bfe                  _L18321
+                  0x014c10                  _L2447
+                  0x014c22                  _L32264
+                  0x014c34                  _L10673
+                  0x014c46                  _L4126
+                  0x014c58                  _L8993
+                  0x014c6a                  _L18976
 
 External Symbols in Program Memory (by name):
 
@@ -840,33 +840,33 @@ External Symbols in Program Memory (by name):
                   0x00bc56                  _BtnMsgDefault
                   0x00bc24                  _BtnSetText
                   0x00bc9a                  _BtnTranslateMsg
-                  0x00e318                  _CTMUInit
+                  0x00e348                  _CTMUInit
                   0x004d50                  _CacheTime
                   0x004996                  _Cache_File_Entry
-                  0x00d6c2                  _CalibrateCTMU
+                  0x00d6f2                  _CalibrateCTMU
                   0x00c030                  _CaptureMonitorMedia
-                  0x011bba                  _ClearDevice
+                  0x011bea                  _ClearDevice
                   0x005b6a                  _Cluster2Sector
-                  0x00f6e8                  _CompactHorizontal
-                  0x00f7c2                  _CompactVertical
+                  0x00f718                  _CompactHorizontal
+                  0x00f7f2                  _CompactVertical
                   0x007560                  _CreateDIR
                   0x004af8                  _CreateFileEntry
                   0x004b62                  _CreateFirstCluster
                   0x003f28                  _DISKmount
-                  0x0115a2                  _DelayMs
-                  0x00e990                  _DrawBlaster
+                  0x0115d2                  _DelayMs
+                  0x00e9c0                  _DrawBlaster
                   0x00c2ba                  _DrawGraphLine
                   0x00c36e                  _DrawGridHorizontals
                   0x00c394                  _DrawGridVerticals
                   0x009858                  _DrawPoly
-                  0x00fd16                  _DrawSnake
-                  0x010448                  _EbAddChar
-                  0x01033c                  _EbCreate
-                  0x010484                  _EbDeleteChar
-                  0x010546                  _EbDraw
-                  0x010500                  _EbMsgDefault
-                  0x0103f2                  _EbSetText
-                  0x0104ac                  _EbTranslateMsg
+                  0x00fd46                  _DrawSnake
+                  0x010478                  _EbAddChar
+                  0x01036c                  _EbCreate
+                  0x0104b4                  _EbDeleteChar
+                  0x010576                  _EbDraw
+                  0x010530                  _EbMsgDefault
+                  0x010422                  _EbSetText
+                  0x0104dc                  _EbTranslateMsg
                   0x005ae2                  _EraseCluster
                   0x00490a                  _FAT_erase_cluster_chain
                   0x004f1a                  _FATfindEmptyCluster
@@ -895,17 +895,17 @@ External Symbols in Program Memory (by name):
                   0x005a34                  _FileObjectCopy
                   0x009662                  _FillBevel
                   0x00505a                  _Fill_File_Object
-                  0x00f872                  _FindBallNumber
+                  0x00f8a2                  _FindBallNumber
                   0x004b9c                  _FindEmptyEntries
                   0x007cd0                  _FindFirst
                   0x007f6c                  _FindNext
-                  0x00f344                  _FindNextPosition
+                  0x00f374                  _FindNextPosition
                   0x00ce98                  _FlashDeleteListBoxItems
                   0x00ceca                  _FlashDisplayDirectory
                   0x00cf2e                  _FlashDisplayFiles
                   0x00cfc6                  _FlashFormatFileInformation
                   0x00d018                  _FlashMonitorMedia
-                  0x00d0b4                  _FlashUpdateVolume
+                  0x00d0e4                  _FlashUpdateVolume
                   0x007c5a                  _FormatDirName
                   0x006052                  _FormatFileName
                   0x00a988                  _GOLAddObject
@@ -914,7 +914,7 @@ External Symbols in Program Memory (by name):
                   0x00a9bc                  _GOLDraw
                   0x00820e                  _GOLDrawCallback
                   0x00a95a                  _GOLFindObject
-                  0x0137ac                  _GOLFontDefault
+                  0x0137dc                  _GOLFontDefault
                   0x00a916                  _GOLFree
                   0x00a80e                  _GOLGetFocusNext
                   0x00a908                  _GOLInit
@@ -925,37 +925,37 @@ External Symbols in Program Memory (by name):
                   0x00a842                  _GOLSetFocus
                   0x009b20                  _GetImageHeight
                   0x009aee                  _GetImageWidth
-                  0x011a3e                  _GetPixel
+                  0x011a6e                  _GetPixel
                   0x0071d4                  _GetPreviousEntry
                   0x009aca                  _GetTextHeight
                   0x009a40                  _GetTextWidth
                   0x00c3bc                  _GraphReadPotentiometer
-                  0x0111ce                  _GridClearCellState
-                  0x010c6a                  _GridCreate
-                  0x010d44                  _GridDraw
-                  0x011148                  _GridFreeItems
-                  0x0112ae                  _GridGetCell
-                  0x011310                  _GridMsgDefault
-                  0x01116a                  _GridSetCell
-                  0x011256                  _GridSetCellState
-                  0x011228                  _GridSetFocus
-                  0x01150a                  _GridTranslateMsg
-                  0x00d956                  _IndicateFocus
+                  0x0111fe                  _GridClearCellState
+                  0x010c9a                  _GridCreate
+                  0x010d74                  _GridDraw
+                  0x011178                  _GridFreeItems
+                  0x0112de                  _GridGetCell
+                  0x011340                  _GridMsgDefault
+                  0x01119a                  _GridSetCell
+                  0x011286                  _GridSetCellState
+                  0x011258                  _GridSetFocus
+                  0x01153a                  _GridTranslateMsg
+                  0x00d986                  _IndicateFocus
                   0x008d68                  _InitGraph
-                  0x00e7ba                  _InitializeRandomNumberGenerator
+                  0x00e7ea                  _InitializeRandomNumberGenerator
                   0x0085bc                  _InitializeScreen
-                  0x014bf2                  _L10673
-                  0x014b62                  _L17009
-                  0x014baa                  _L17048
-                  0x014bbc                  _L18321
-                  0x014c28                  _L18976
-                  0x014bce                  _L2447
-                  0x014758                  _L29552
-                  0x014be0                  _L32264
-                  0x014c04                  _L4126
-                  0x01434e                  _L4298
-                  0x014b8c                  _L8740
-                  0x014c16                  _L8993
+                  0x014c34                  _L10673
+                  0x014ba4                  _L17009
+                  0x014bec                  _L17048
+                  0x014bfe                  _L18321
+                  0x014c6a                  _L18976
+                  0x014c10                  _L2447
+                  0x01479a                  _L29552
+                  0x014c22                  _L32264
+                  0x014c46                  _L4126
+                  0x014390                  _L4298
+                  0x014bce                  _L8740
+                  0x014c58                  _L8993
                   0x00b192                  _LbAddItem
                   0x00b2ee                  _LbChangeSel
                   0x00b088                  _LbCreate
@@ -971,8 +971,8 @@ External Symbols in Program Memory (by name):
                   0x004080                  _LoadBootSector
                   0x0051b6                  _LoadDirAttrib
                   0x003f6a                  _LoadMBR
-                  0x00f8c0                  _MarkAllNeighbors
-                  0x00f9b6                  _MovesRemaining
+                  0x00f8f0                  _MarkAllNeighbors
+                  0x00f9e6                  _MovesRemaining
                   0x009984                  _OutChar
                   0x009924                  _OutText
                   0x00994e                  _OutTextXY
@@ -981,23 +981,23 @@ External Symbols in Program Memory (by name):
                   0x00b982                  _PictDraw
                   0x00b960                  _PictTranslateMsg
                   0x004c6c                  _PopulateEntries
-                  0x00f514                  _ProcessMessageBlaster
-                  0x00d99c                  _ProcessMessageCTMU
+                  0x00f544                  _ProcessMessageBlaster
+                  0x00d9cc                  _ProcessMessageCTMU
                   0x00c484                  _ProcessMessageDemos
-                  0x00d11a                  _ProcessMessageFlash
-                  0x00d204                  _ProcessMessageFlashError
-                  0x00e7d0                  _ProcessMessageGames
+                  0x00d14a                  _ProcessMessageFlash
+                  0x00d234                  _ProcessMessageFlashError
+                  0x00e800                  _ProcessMessageGames
                   0x00c504                  _ProcessMessageGraph
                   0x00870c                  _ProcessMessageMain
                   0x00c57a                  _ProcessMessageRGB
-                  0x00e84c                  _ProcessMessageScore
-                  0x00fa90                  _ProcessMessageShapelet
-                  0x0100be                  _ProcessMessageSnake
-                  0x00d9aa                  _ProcessMessageTime
-                  0x00dc46                  _ProcessMessageUtilities
-                  0x011c46                  _PutImage
-                  0x011c7c                  _PutImage1BPP
-                  0x011882                  _PutPixel
+                  0x00e87c                  _ProcessMessageScore
+                  0x00fac0                  _ProcessMessageShapelet
+                  0x0100ee                  _ProcessMessageSnake
+                  0x00d9da                  _ProcessMessageTime
+                  0x00dc76                  _ProcessMessageUtilities
+                  0x011c76                  _PutImage
+                  0x011cac                  _PutImage1BPP
+                  0x0118b2                  _PutPixel
                   0x00c7c2                  _RGBMapColorPins
                   0x00c774                  _RGBSetBlue
                   0x00c78e                  _RGBSetGreen
@@ -1015,37 +1015,37 @@ External Symbols in Program Memory (by name):
                   0x0012f8                  _RTCCSetBinSec
                   0x00151a                  _RTCCSetBinYear
                   0x0012e2                  _RTCCUnlock
-                  0x00e85e                  _Random
-                  0x010866                  _RdiaCosine
-                  0x01078c                  _RdiaCreate
-                  0x010a2e                  _RdiaDraw
-                  0x01082e                  _RdiaMsgDefault
-                  0x0108cc                  _RdiaSine
-                  0x010932                  _RdiaTranslateMsg
-                  0x00e390                  _ReadCTMU
-                  0x0121ce                  _ReadDWord
+                  0x00e88e                  _Random
+                  0x010896                  _RdiaCosine
+                  0x0107bc                  _RdiaCreate
+                  0x010a5e                  _RdiaDraw
+                  0x01085e                  _RdiaMsgDefault
+                  0x0108fc                  _RdiaSine
+                  0x010962                  _RdiaTranslateMsg
+                  0x00e3c0                  _ReadCTMU
+                  0x0121fe                  _ReadDWord
                   0x00659e                  _ReadFAT
-                  0x01219a                  _ReadWord
-                  0x0115c6                  _ResetDevice
+                  0x0121ca                  _ReadWord
+                  0x0115f6                  _ResetDevice
                   0x0098f4                  _SetFont
-                  0x00e628                  _SetNextChannel
-                  0x00f5a4                  _ShowScreenBlaster
-                  0x00dcc2                  _ShowScreenCTMU
+                  0x00e658                  _SetNextChannel
+                  0x00f5d4                  _ShowScreenBlaster
+                  0x00dcf2                  _ShowScreenCTMU
                   0x00c896                  _ShowScreenCapture
                   0x00c954                  _ShowScreenCaptureMedia
                   0x00c9e8                  _ShowScreenDemos
-                  0x00d216                  _ShowScreenFlash
-                  0x00d2aa                  _ShowScreenFlashError
-                  0x00e886                  _ShowScreenGames
+                  0x00d246                  _ShowScreenFlash
+                  0x00d2da                  _ShowScreenFlashError
+                  0x00e8b6                  _ShowScreenGames
                   0x00876a                  _ShowScreenGeneric
                   0x00ca38                  _ShowScreenGraph
                   0x008806                  _ShowScreenMain
                   0x00caf6                  _ShowScreenRGB
-                  0x00e8d6                  _ShowScreenScore
-                  0x00fc2e                  _ShowScreenShapelet
-                  0x01012e                  _ShowScreenSnake
-                  0x00dcfe                  _ShowScreenTime
-                  0x00e0b8                  _ShowScreenUtilities
+                  0x00e906                  _ShowScreenScore
+                  0x00fc5e                  _ShowScreenShapelet
+                  0x01015e                  _ShowScreenSnake
+                  0x00dd2e                  _ShowScreenTime
+                  0x00e0e8                  _ShowScreenUtilities
                   0x009b52                  _SldCreate
                   0x00a010                  _SldDraw
                   0x009c90                  _SldGetHeight
@@ -1062,39 +1062,39 @@ External Symbols in Program Memory (by name):
                   0x00a594                  _StSetText
                   0x00a5b4                  _StTranslateMsg
                   0x00886c                  _TickInit
-                  0x00e63e                  _TouchSenseButtonsMsg
-                  0x00f64e                  _TranslateMessageBlaster
-                  0x00e10e                  _TranslateMessageCTMU
-                  0x00d5d2                  _TranslateMessageFlash
-                  0x00d63e                  _TranslateMessageFlashError
+                  0x00e66e                  _TouchSenseButtonsMsg
+                  0x00f67e                  _TranslateMessageBlaster
+                  0x00e13e                  _TranslateMessageCTMU
+                  0x00d602                  _TranslateMessageFlash
+                  0x00d66e                  _TranslateMessageFlashError
                   0x008884                  _TranslateMessageGeneric
                   0x00cc84                  _TranslateMessageGraph
                   0x00ccea                  _TranslateMessageRGB
-                  0x00e96c                  _TranslateMessageScore
-                  0x00fcfe                  _TranslateMessageShapelet
-                  0x0102bc                  _TranslateMessageSnake
-                  0x00e11c                  _TranslateMessageTime
+                  0x00e99c                  _TranslateMessageScore
+                  0x00fd2e                  _TranslateMessageShapelet
+                  0x0102ec                  _TranslateMessageSnake
+                  0x00e14c                  _TranslateMessageTime
                   0x008bd8                  _TranslateTouchpad
                   0x001570                  _USBHostClearEndpointErrors
                   0x0015be                  _USBHostDeviceRequest
                   0x001688                  _USBHostDeviceStatus
                   0x0016dc                  _USBHostInit
-                  0x012202                  _USBHostMSDDeviceStatus
-                  0x0135dc                  _USBHostMSDEventHandler
-                  0x01343a                  _USBHostMSDInitialize
-                  0x0122d6                  _USBHostMSDResetDevice
-                  0x011dd4                  _USBHostMSDSCSIEventHandler
-                  0x011db2                  _USBHostMSDSCSIInitialize
-                  0x011e46                  _USBHostMSDSCSIMediaDetect
-                  0x011e66                  _USBHostMSDSCSIMediaInitialize
-                  0x011fa6                  _USBHostMSDSCSIMediaReset
-                  0x011ff6                  _USBHostMSDSCSISectorRead
-                  0x0120b8                  _USBHostMSDSCSISectorWrite
-                  0x012192                  _USBHostMSDSCSIWriteProtectState
-                  0x012392                  _USBHostMSDTasks
-                  0x013040                  _USBHostMSDTerminateTransfer
-                  0x0130e2                  _USBHostMSDTransfer
-                  0x01335e                  _USBHostMSDTransferIsComplete
+                  0x012232                  _USBHostMSDDeviceStatus
+                  0x01360c                  _USBHostMSDEventHandler
+                  0x01346a                  _USBHostMSDInitialize
+                  0x012306                  _USBHostMSDResetDevice
+                  0x011e04                  _USBHostMSDSCSIEventHandler
+                  0x011de2                  _USBHostMSDSCSIInitialize
+                  0x011e76                  _USBHostMSDSCSIMediaDetect
+                  0x011e96                  _USBHostMSDSCSIMediaInitialize
+                  0x011fd6                  _USBHostMSDSCSIMediaReset
+                  0x012026                  _USBHostMSDSCSISectorRead
+                  0x0120e8                  _USBHostMSDSCSISectorWrite
+                  0x0121c2                  _USBHostMSDSCSIWriteProtectState
+                  0x0123c2                  _USBHostMSDTasks
+                  0x013070                  _USBHostMSDTerminateTransfer
+                  0x013112                  _USBHostMSDTransfer
+                  0x01338e                  _USBHostMSDTransferIsComplete
                   0x001724                  _USBHostRead
                   0x0017d4                  _USBHostResetDevice
                   0x001802                  _USBHostResumeDevice
@@ -1106,8 +1106,8 @@ External Symbols in Program Memory (by name):
                   0x00248c                  _USBHostTransferIsComplete
                   0x002536                  _USBHostVbusEvent
                   0x002572                  _USBHostWrite
-                  0x00d662                  _USB_ApplicationEventHandler
-                  0x00e282                  _UpdateDateTime
+                  0x00d692                  _USB_ApplicationEventHandler
+                  0x00e2b2                  _UpdateDateTime
                   0x00cdaa                  _UpdateGraph
                   0x006166                  _ValidateChars
                   0x006854                  _WriteFAT
@@ -1123,8 +1123,8 @@ External Symbols in Program Memory (by name):
                   0x008d40                  __StackError
                   0x008cd4                  __T4Interrupt
                   0x003660                  __USB1Interrupt
-                  0x01367a                  __USBHostMSD_GetNextTag
-                  0x013690                  __USBHostMSD_ResetStateJump
+                  0x0136aa                  __USBHostMSD_GetNextTag
+                  0x0136c0                  __USBHostMSD_ResetStateJump
                   0x002622                  __USB_CheckCommandAndEnumerationAttempts
                   0x002668                  __USB_FindClassDriver
                   0x0026e4                  __USB_FindDeviceLevelClientDriver
@@ -1156,33 +1156,33 @@ External Symbols in Program Memory (by name):
                   0x000f76                  ___umuldi3
                   0x000452                  __isprintf
                   0x000200                  __resetPRI
-                  0x0137b0                  _ballCircle
-                  0x0137b6                  _ballCross
-                  0x0137bc                  _ballMarking
-                  0x0137c2                  _ballSquare
-                  0x0137c8                  _ballTriangle
+                  0x0137e0                  _ballCircle
+                  0x0137e6                  _ballCross
+                  0x0137ec                  _ballMarking
+                  0x0137f2                  _ballSquare
+                  0x0137f8                  _ballTriangle
                   0x006b6e                  _chdirhelper
                   0x007bc4                  _eraseDir
                   0x005e30                  _flushData
                   0x00034c                  _free
-                  0x0137ce                  _iconFolderSmall
-                  0x0137d4                  _iconMicrochip
-                  0x0137da                  _intro
-                  0x0137e0                  _introDevice
+                  0x0137fe                  _iconFolderSmall
+                  0x013804                  _iconMicrochip
+                  0x01380a                  _intro
+                  0x013810                  _introDevice
                   0x0062e6                  _isDIR
                   0x00622e                  _isShort
                   0x0081ac                  _main
                   0x0002f6                  _malloc
-                  0x0137f8                  _mediaRequest
+                  0x013828                  _mediaRequest
                   0x000c7c                  _memchr
                   0x000568                  _memcpy
                   0x0003c0                  _memset
                   0x007318                  _mkdirhelper
                   0x0004b8                  _rand
                   0x00774c                  _rmdirhelper
-                  0x0137e6                  _snakeBody
-                  0x0137ec                  _snakeFood
-                  0x0137f2                  _snakeHead
+                  0x013816                  _snakeBody
+                  0x01381c                  _snakeFood
+                  0x013822                  _snakeHead
                   0x000498                  _srand
                   0x000428                  _strcat
                   0x000416                  _strchr
@@ -1250,7 +1250,7 @@ LOAD ..\Microchip\USB\MSD Host Driver\Objects - PIC24F Starter Kit\usb_host_msd.
                   0x000002          0x2 SHORT 0x0 ((<code 336> (__reset) >> 0x10) & 0x7f)
                   0x000003          0x2 SHORT 0x0
 
-.text             0x000200      0x1354c
+.text             0x000200      0x1357c
  *(.init)
  .init            0x000200         0x80 c:/microchip starter kits/pic24f starter kit 1/mplab c30/bin/../lib\libpic30-coff.a(crt0.o)
                   0x000200                  _resetPRI
@@ -1541,118 +1541,118 @@ LOAD ..\Microchip\USB\MSD Host Driver\Objects - PIC24F Starter Kit\usb_host_msd.
                   0x00ccea                  TranslateMessageRGB
                   0x00cdaa                  UpdateGraph
                   0x00ce34                  WriteOneBuffer
- .text            0x00ce98        0x82a Objects - PIC24F Starter Kit\Flash.o
+ .text            0x00ce98        0x85a Objects - PIC24F Starter Kit\Flash.o
                   0x00ce98                  FlashDeleteListBoxItems
                   0x00ceca                  FlashDisplayDirectory
                   0x00cf2e                  FlashDisplayFiles
                   0x00cfc6                  FlashFormatFileInformation
                   0x00d018                  FlashMonitorMedia
-                  0x00d0b4                  FlashUpdateVolume
-                  0x00d11a                  ProcessMessageFlash
-                  0x00d204                  ProcessMessageFlashError
-                  0x00d216                  ShowScreenFlash
-                  0x00d2aa                  ShowScreenFlashError
-                  0x00d5d2                  TranslateMessageFlash
-                  0x00d63e                  TranslateMessageFlashError
-                  0x00d662                  USB_ApplicationEventHandler
- .text            0x00d6c2        0xc56 Objects - PIC24F Starter Kit\Utilities.o
-                  0x00d6c2                  CalibrateCTMU
-                  0x00d956                  IndicateFocus
-                  0x00d99c                  ProcessMessageCTMU
-                  0x00d9aa                  ProcessMessageTime
-                  0x00dc46                  ProcessMessageUtilities
-                  0x00dcc2                  ShowScreenCTMU
-                  0x00dcfe                  ShowScreenTime
-                  0x00e0b8                  ShowScreenUtilities
-                  0x00e10e                  TranslateMessageCTMU
-                  0x00e11c                  TranslateMessageTime
-                  0x00e282                  UpdateDateTime
- .text            0x00e318        0x4a2 Objects - PIC24F Starter Kit\TouchSense.o
-                  0x00e318                  CTMUInit
-                  0x00e390                  ReadCTMU
-                  0x00e628                  SetNextChannel
-                  0x00e63e                  TouchSenseButtonsMsg
- .text            0x00e7ba       0x1b82 Objects - PIC24F Starter Kit\Games.o
-                  0x00e7ba                  InitializeRandomNumberGenerator
-                  0x00e7d0                  ProcessMessageGames
-                  0x00e84c                  ProcessMessageScore
-                  0x00e85e                  Random
-                  0x00e886                  ShowScreenGames
-                  0x00e8d6                  ShowScreenScore
-                  0x00e96c                  TranslateMessageScore
-                  0x00e990                  DrawBlaster
-                  0x00f344                  FindNextPosition
-                  0x00f514                  ProcessMessageBlaster
-                  0x00f5a4                  ShowScreenBlaster
-                  0x00f64e                  TranslateMessageBlaster
-                  0x00f6e8                  CompactHorizontal
-                  0x00f7c2                  CompactVertical
-                  0x00f872                  FindBallNumber
-                  0x00f8c0                  MarkAllNeighbors
-                  0x00f9b6                  MovesRemaining
-                  0x00fa90                  ProcessMessageShapelet
-                  0x00fc2e                  ShowScreenShapelet
-                  0x00fcfe                  TranslateMessageShapelet
-                  0x00fd16                  DrawSnake
-                  0x0100be                  ProcessMessageSnake
-                  0x01012e                  ShowScreenSnake
-                  0x0102bc                  TranslateMessageSnake
- .text            0x01033c        0x450 ..\Microchip\Graphics\Objects - PIC24F Starter Kit\EditBox.o
-                  0x01033c                  EbCreate
-                  0x0103f2                  EbSetText
-                  0x010448                  EbAddChar
-                  0x010484                  EbDeleteChar
-                  0x0104ac                  EbTranslateMsg
-                  0x010500                  EbMsgDefault
-                  0x010546                  EbDraw
- .text            0x01078c        0x4de ..\Microchip\Graphics\Objects - PIC24F Starter Kit\RoundDial.o
-                  0x01078c                  RdiaCreate
-                  0x01082e                  RdiaMsgDefault
-                  0x010866                  RdiaCosine
-                  0x0108cc                  RdiaSine
-                  0x010932                  RdiaTranslateMsg
-                  0x010a2e                  RdiaDraw
- .text            0x010c6a        0x938 ..\Microchip\Graphics\Objects - PIC24F Starter Kit\Grid.o
-                  0x010c6a                  GridCreate
-                  0x010d44                  GridDraw
-                  0x011148                  GridFreeItems
-                  0x01116a                  GridSetCell
-                  0x0111ce                  GridClearCellState
-                  0x011228                  GridSetFocus
-                  0x011256                  GridSetCellState
-                  0x0112ae                  GridGetCell
-                  0x011310                  GridMsgDefault
-                  0x01150a                  GridTranslateMsg
- .text            0x0115a2        0x810 ..\Microchip\Graphics\Objects - PIC24F Starter Kit\SH1101A.o
-                  0x0115a2                  DelayMs
-                  0x0115c6                  ResetDevice
-                  0x011882                  PutPixel
-                  0x011a3e                  GetPixel
-                  0x011bba                  ClearDevice
-                  0x011c46                  PutImage
-                  0x011c7c                  PutImage1BPP
- .text            0x011db2        0x450 ..\Microchip\USB\MSD Host Driver\Objects - PIC24F Starter Kit\usb_host_msd_scsi.o
-                  0x011db2                  USBHostMSDSCSIInitialize
-                  0x011dd4                  USBHostMSDSCSIEventHandler
-                  0x011e46                  USBHostMSDSCSIMediaDetect
-                  0x011e66                  USBHostMSDSCSIMediaInitialize
-                  0x011fa6                  USBHostMSDSCSIMediaReset
-                  0x011ff6                  USBHostMSDSCSISectorRead
-                  0x0120b8                  USBHostMSDSCSISectorWrite
-                  0x012192                  USBHostMSDSCSIWriteProtectState
-                  0x01219a                  ReadWord
-                  0x0121ce                  ReadDWord
- .text            0x012202       0x154a ..\Microchip\USB\MSD Host Driver\Objects - PIC24F Starter Kit\usb_host_msd.o
-                  0x012202                  USBHostMSDDeviceStatus
-                  0x0122d6                  USBHostMSDResetDevice
-                  0x012392                  USBHostMSDTasks
-                  0x013040                  USBHostMSDTerminateTransfer
-                  0x0130e2                  USBHostMSDTransfer
-                  0x01335e                  USBHostMSDTransferIsComplete
-                  0x01343a                  USBHostMSDInitialize
-                  0x0135dc                  USBHostMSDEventHandler
-                  0x01367a                  _USBHostMSD_GetNextTag
-                  0x013690                  _USBHostMSD_ResetStateJump
+                  0x00d0e4                  FlashUpdateVolume
+                  0x00d14a                  ProcessMessageFlash
+                  0x00d234                  ProcessMessageFlashError
+                  0x00d246                  ShowScreenFlash
+                  0x00d2da                  ShowScreenFlashError
+                  0x00d602                  TranslateMessageFlash
+                  0x00d66e                  TranslateMessageFlashError
+                  0x00d692                  USB_ApplicationEventHandler
+ .text            0x00d6f2        0xc56 Objects - PIC24F Starter Kit\Utilities.o
+                  0x00d6f2                  CalibrateCTMU
+                  0x00d986                  IndicateFocus
+                  0x00d9cc                  ProcessMessageCTMU
+                  0x00d9da                  ProcessMessageTime
+                  0x00dc76                  ProcessMessageUtilities
+                  0x00dcf2                  ShowScreenCTMU
+                  0x00dd2e                  ShowScreenTime
+                  0x00e0e8                  ShowScreenUtilities
+                  0x00e13e                  TranslateMessageCTMU
+                  0x00e14c                  TranslateMessageTime
+                  0x00e2b2                  UpdateDateTime
+ .text            0x00e348        0x4a2 Objects - PIC24F Starter Kit\TouchSense.o
+                  0x00e348                  CTMUInit
+                  0x00e3c0                  ReadCTMU
+                  0x00e658                  SetNextChannel
+                  0x00e66e                  TouchSenseButtonsMsg
+ .text            0x00e7ea       0x1b82 Objects - PIC24F Starter Kit\Games.o
+                  0x00e7ea                  InitializeRandomNumberGenerator
+                  0x00e800                  ProcessMessageGames
+                  0x00e87c                  ProcessMessageScore
+                  0x00e88e                  Random
+                  0x00e8b6                  ShowScreenGames
+                  0x00e906                  ShowScreenScore
+                  0x00e99c                  TranslateMessageScore
+                  0x00e9c0                  DrawBlaster
+                  0x00f374                  FindNextPosition
+                  0x00f544                  ProcessMessageBlaster
+                  0x00f5d4                  ShowScreenBlaster
+                  0x00f67e                  TranslateMessageBlaster
+                  0x00f718                  CompactHorizontal
+                  0x00f7f2                  CompactVertical
+                  0x00f8a2                  FindBallNumber
+                  0x00f8f0                  MarkAllNeighbors
+                  0x00f9e6                  MovesRemaining
+                  0x00fac0                  ProcessMessageShapelet
+                  0x00fc5e                  ShowScreenShapelet
+                  0x00fd2e                  TranslateMessageShapelet
+                  0x00fd46                  DrawSnake
+                  0x0100ee                  ProcessMessageSnake
+                  0x01015e                  ShowScreenSnake
+                  0x0102ec                  TranslateMessageSnake
+ .text            0x01036c        0x450 ..\Microchip\Graphics\Objects - PIC24F Starter Kit\EditBox.o
+                  0x01036c                  EbCreate
+                  0x010422                  EbSetText
+                  0x010478                  EbAddChar
+                  0x0104b4                  EbDeleteChar
+                  0x0104dc                  EbTranslateMsg
+                  0x010530                  EbMsgDefault
+                  0x010576                  EbDraw
+ .text            0x0107bc        0x4de ..\Microchip\Graphics\Objects - PIC24F Starter Kit\RoundDial.o
+                  0x0107bc                  RdiaCreate
+                  0x01085e                  RdiaMsgDefault
+                  0x010896                  RdiaCosine
+                  0x0108fc                  RdiaSine
+                  0x010962                  RdiaTranslateMsg
+                  0x010a5e                  RdiaDraw
+ .text            0x010c9a        0x938 ..\Microchip\Graphics\Objects - PIC24F Starter Kit\Grid.o
+                  0x010c9a                  GridCreate
+                  0x010d74                  GridDraw
+                  0x011178                  GridFreeItems
+                  0x01119a                  GridSetCell
+                  0x0111fe                  GridClearCellState
+                  0x011258                  GridSetFocus
+                  0x011286                  GridSetCellState
+                  0x0112de                  GridGetCell
+                  0x011340                  GridMsgDefault
+                  0x01153a                  GridTranslateMsg
+ .text            0x0115d2        0x810 ..\Microchip\Graphics\Objects - PIC24F Starter Kit\SH1101A.o
+                  0x0115d2                  DelayMs
+                  0x0115f6                  ResetDevice
+                  0x0118b2                  PutPixel
+                  0x011a6e                  GetPixel
+                  0x011bea                  ClearDevice
+                  0x011c76                  PutImage
+                  0x011cac                  PutImage1BPP
+ .text            0x011de2        0x450 ..\Microchip\USB\MSD Host Driver\Objects - PIC24F Starter Kit\usb_host_msd_scsi.o
+                  0x011de2                  USBHostMSDSCSIInitialize
+                  0x011e04                  USBHostMSDSCSIEventHandler
+                  0x011e76                  USBHostMSDSCSIMediaDetect
+                  0x011e96                  USBHostMSDSCSIMediaInitialize
+                  0x011fd6                  USBHostMSDSCSIMediaReset
+                  0x012026                  USBHostMSDSCSISectorRead
+                  0x0120e8                  USBHostMSDSCSISectorWrite
+                  0x0121c2                  USBHostMSDSCSIWriteProtectState
+                  0x0121ca                  ReadWord
+                  0x0121fe                  ReadDWord
+ .text            0x012232       0x154a ..\Microchip\USB\MSD Host Driver\Objects - PIC24F Starter Kit\usb_host_msd.o
+                  0x012232                  USBHostMSDDeviceStatus
+                  0x012306                  USBHostMSDResetDevice
+                  0x0123c2                  USBHostMSDTasks
+                  0x013070                  USBHostMSDTerminateTransfer
+                  0x013112                  USBHostMSDTransfer
+                  0x01338e                  USBHostMSDTransferIsComplete
+                  0x01346a                  USBHostMSDInitialize
+                  0x01360c                  USBHostMSDEventHandler
+                  0x0136aa                  _USBHostMSD_GetNextTag
+                  0x0136c0                  _USBHostMSD_ResetStateJump
 
 __CONFIG3
  *(__CONFIG3.sec)
@@ -3029,7 +3029,6 @@ __CONFIG1         0x02abfe          0x2
                     0x0230                  UART2 = 0x230
                     0x0230                  _UART2 = 0x230
                     0x0001                  __MPLAB_BUILD = 0x1
-                    0x0001                  __MPLAB_DEBUG = 0x1
 START GROUP
 LOAD c:/microchip starter kits/pic24f starter kit 1/mplab c30/bin/../lib\libpic30-coff.a
 LOAD c:/microchip starter kits/pic24f starter kit 1/mplab c30/bin/../lib\libm-coff.a
@@ -3039,30 +3038,30 @@ OUTPUT(PIC24F Starter Kit.cof coff-pic30)
 LOAD jump_table
 LOAD data_init
 
-.const              0xb74c        0x54e
- .const             0xb74c         0x18 Objects - PIC24F Starter Kit\rtcc.o
- .const             0xb764         0x10 ..\Microchip\MDD File System\Objects - PIC24F Starter Kit\FSIO.o
- .const             0xb774         0x38 Objects - PIC24F Starter Kit\PIC24F Starter Kit.o
- .const             0xb7ac          0x4 Objects - PIC24F Starter Kit\Gentium8.o
-                    0xb7ac                  GOLFontDefault
- .const             0xb7b0         0x48 Objects - PIC24F Starter Kit\Pictures.o
-                    0xb7b0                  ballCircle
-                    0xb7b6                  ballCross
-                    0xb7bc                  ballMarking
-                    0xb7c2                  ballSquare
-                    0xb7c8                  ballTriangle
-                    0xb7ce                  iconFolderSmall
-                    0xb7d4                  iconMicrochip
-                    0xb7da                  intro
-                    0xb7e0                  introDevice
-                    0xb7e6                  snakeBody
-                    0xb7ec                  snakeFood
-                    0xb7f2                  snakeHead
- .const             0xb7f8        0x16e Objects - PIC24F Starter Kit\Demos.o
-                    0xb7f8                  mediaRequest
- .const             0xb966        0x1ba Objects - PIC24F Starter Kit\Flash.o
- .const             0xbb20         0xb0 Objects - PIC24F Starter Kit\Utilities.o
- .const             0xbbd0         0xca Objects - PIC24F Starter Kit\Games.o
+.const              0xb77c        0x560
+ .const             0xb77c         0x18 Objects - PIC24F Starter Kit\rtcc.o
+ .const             0xb794         0x10 ..\Microchip\MDD File System\Objects - PIC24F Starter Kit\FSIO.o
+ .const             0xb7a4         0x38 Objects - PIC24F Starter Kit\PIC24F Starter Kit.o
+ .const             0xb7dc          0x4 Objects - PIC24F Starter Kit\Gentium8.o
+                    0xb7dc                  GOLFontDefault
+ .const             0xb7e0         0x48 Objects - PIC24F Starter Kit\Pictures.o
+                    0xb7e0                  ballCircle
+                    0xb7e6                  ballCross
+                    0xb7ec                  ballMarking
+                    0xb7f2                  ballSquare
+                    0xb7f8                  ballTriangle
+                    0xb7fe                  iconFolderSmall
+                    0xb804                  iconMicrochip
+                    0xb80a                  intro
+                    0xb810                  introDevice
+                    0xb816                  snakeBody
+                    0xb81c                  snakeFood
+                    0xb822                  snakeHead
+ .const             0xb828        0x16e Objects - PIC24F Starter Kit\Demos.o
+                    0xb828                  mediaRequest
+ .const             0xb996        0x1cc Objects - PIC24F Starter Kit\Flash.o
+ .const             0xbb62         0xb0 Objects - PIC24F Starter Kit\Utilities.o
+ .const             0xbc12         0xca Objects - PIC24F Starter Kit\Games.o
 
 .nbss               0x0800        0x496
  .nbss              0x0800        0x496 Objects - PIC24F Starter Kit\Demos.o
@@ -3099,21 +3098,21 @@ LOAD data_init
                     0x0d3a                  field
                     0x0e8a                  snake
 
-_00f30d20536ba7f7
+_00f2ed20536bb0d7
                     0x1200        0x200
- _00f30d20536ba7f7
+ _00f2ed20536bb0d7
                     0x1200        0x200 ..\Microchip\USB\Objects - PIC24F Starter Kit\usb_host.o
                     0x1200                  BDT
 
-_0184b310536ba7f7
+_0184b310536bb0d8
                     0x1400        0x200
- _0184b310536ba7f7
+ _0184b310536bb0d8
                     0x1400        0x200 ..\Microchip\MDD File System\Objects - PIC24F Starter Kit\FSIO.o
                     0x1400                  gDataBuffer
 
-_0184b460536ba7f7
+_0184b460536bb0d8
                     0x1600        0x200
- _0184b460536ba7f7
+ _0184b460536bb0d8
                     0x1600        0x200 ..\Microchip\MDD File System\Objects - PIC24F Starter Kit\FSIO.o
                     0x1600                  gFATBuffer
 
@@ -3153,9 +3152,9 @@ _0184b460536ba7f7
                     0x11f4                  _fontLastChar
                     0x11f6                  _fontHeight
 
-_00f04150536ba804
+_00f04150536bb0e5
                     0x191e         0x3a
- _00f04150536ba804
+ _00f04150536bb0e5
                     0x191e         0x3a ..\Microchip\USB\MSD Host Driver\Objects - PIC24F Starter Kit\usb_host_msd.o
                     0x191e                  deviceInfoMSD
 
@@ -3346,86 +3345,86 @@ _00f04150536ba804
  .nbss              0x1b82          0x2 c:/microchip starter kits/pic24f starter kit 1/mplab c30/bin/../lib\libpic30-coff.a(brk.o)
                     0x1b82                  __curbrk
 
-_00e4caf0536ba7f9
+_00e4caf0536bb0d9
                     0x1b84        0x764
- _00e4caf0536ba7f9
+ _00e4caf0536bb0d9
                     0x1b84        0x764 Objects - PIC24F Starter Kit\Gentium8.o
                     0x1b84                  L13579
 
 .dconst             0x22e8          0x8
  .dconst            0x22e8          0x8 c:/microchip starter kits/pic24f starter kit 1/mplab c30/bin/../lib\libc-coff.a(xprintf.io)
 
-.dinit            0x013c9a        0x6b4
- .dinit           0x013c9a        0x6b4 data_init
+.dinit            0x013cdc        0x6b4
+ .dinit           0x013cdc        0x6b4 data_init
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn8
-                  0x01434e        0x40a
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn8
-                  0x01434e        0x40a Objects - PIC24F Starter Kit\Pictures.o
-                  0x01434e                  L4298
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn8
+                  0x014390        0x40a
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn8
+                  0x014390        0x40a Objects - PIC24F Starter Kit\Pictures.o
+                  0x014390                  L4298
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn9
-                  0x014758        0x40a
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn9
-                  0x014758        0x40a Objects - PIC24F Starter Kit\Pictures.o
-                  0x014758                  L29552
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn9
+                  0x01479a        0x40a
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn9
+                  0x01479a        0x40a Objects - PIC24F Starter Kit\Pictures.o
+                  0x01479a                  L29552
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn7
-                  0x014b62         0x2a
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn7
-                  0x014b62         0x2a Objects - PIC24F Starter Kit\Pictures.o
-                  0x014b62                  L17009
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn7
+                  0x014ba4         0x2a
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn7
+                  0x014ba4         0x2a Objects - PIC24F Starter Kit\Pictures.o
+                  0x014ba4                  L17009
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn6
-                  0x014b8c         0x1e
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn6
-                  0x014b8c         0x1e Objects - PIC24F Starter Kit\Pictures.o
-                  0x014b8c                  L8740
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn6
+                  0x014bce         0x1e
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn6
+                  0x014bce         0x1e Objects - PIC24F Starter Kit\Pictures.o
+                  0x014bce                  L8740
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn1
-                  0x014baa         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn1
-                  0x014baa         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014baa                  L17048
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn1
+                  0x014bec         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn1
+                  0x014bec         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014bec                  L17048
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn2
-                  0x014bbc         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn2
-                  0x014bbc         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014bbc                  L18321
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn2
+                  0x014bfe         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn2
+                  0x014bfe         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014bfe                  L18321
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn3
-                  0x014bce         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn3
-                  0x014bce         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014bce                  L2447
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn3
+                  0x014c10         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn3
+                  0x014c10         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014c10                  L2447
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn4
-                  0x014be0         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn4
-                  0x014be0         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014be0                  L32264
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn4
+                  0x014c22         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn4
+                  0x014c22         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014c22                  L32264
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn5
-                  0x014bf2         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn5
-                  0x014bf2         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014bf2                  L10673
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn5
+                  0x014c34         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn5
+                  0x014c34         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014c34                  L10673
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn10
-                  0x014c04         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn10
-                  0x014c04         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014c04                  L4126
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn10
+                  0x014c46         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn10
+                  0x014c46         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014c46                  L4126
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn11
-                  0x014c16         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn11
-                  0x014c16         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014c16                  L8993
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn11
+                  0x014c58         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn11
+                  0x014c58         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014c58                  L8993
 
-C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn12
-                  0x014c28         0x12
- C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccd9nz10.s.scn12
-                  0x014c28         0x12 Objects - PIC24F Starter Kit\Pictures.o
-                  0x014c28                  L18976
+C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn12
+                  0x014c6a         0x12
+ C:\DOCUME~1\NARAYA~1\LOCALS~1\Temp/ccKLAB5d.s.scn12
+                  0x014c6a         0x12 Objects - PIC24F Starter Kit\Pictures.o
+                  0x014c6a                  L18976
